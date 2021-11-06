@@ -4,8 +4,6 @@ Components:
 Miquel Solé
 Martí Tuneu
 
-Descripció dels fitxers:
-
 Aquest directori conté:
  - Un document PDF amb les respostes a les preguntes de la Practica 1.
  - La carpeta Codi que conté l'script liga_webscrapping.py que duu a terme l'extracció de dades de la web i un fitxer liga_webscrapping.ipynb amb el mateix codi.
